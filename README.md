@@ -5,24 +5,28 @@
 🚀 Building clean and simple web apps.
 
 🛠️ Improving my development workflow.
+------------------------------------------------------------
 
 🌱 I’m currently learning…
 
 🖥️ Modern JavaScript & backend concepts.
 
 🧠 Improving problem-solving and logic.
+------------------------------------------------------------
 
 👯 I’m looking to collaborate on…
 
 💻 Web or AI-based applications.
 
 🧪 Projects that help me learn & contribute.
+------------------------------------------------------------
 
 🤔 I’m looking for help with…
 
 📈 Understanding scalable backend flows.
 
 🏗️ And building better architecture.
+------------------------------------------------------------
 
 📫 How to reach me…
 
