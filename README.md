@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 📫 How to reach me…
 📧 Email: kartikshetty9403@gmail.com
-🌐 Portfolio: kartik-shetty-dev-portfolio.vercel.app
+🌐 Portfolio: https://kartik-shetty-dev-portfolio.vercel.app/
 
 
 
